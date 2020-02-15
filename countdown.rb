@@ -5,7 +5,7 @@ def countdown
 
     puts "#{count} SECOND(S)!"
       count -= 1
-      sleep 0.5
+      sleep 1
     end
     'happy new year'.upcase
 end

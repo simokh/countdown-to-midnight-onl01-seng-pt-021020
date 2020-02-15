@@ -1,4 +1,4 @@
-def countdown
+def countdown(n)
 
   count = 10
      until count == -1 do

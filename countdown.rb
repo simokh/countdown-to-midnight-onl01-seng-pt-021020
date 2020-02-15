@@ -6,6 +6,6 @@ def countdown(n)
     puts "#{count} SECOND(S)!"
       count -= 1
       sleep 5
-    end
-    'happy new year'.upcase
+      'happy new year'.upcase
+    end  
 end
